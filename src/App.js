@@ -1,15 +1,20 @@
-import Button from "./buttons/likeButton";
-import Header from "./components/header/header";
-import Footer from "./components/footer/Footer";
-import Main from "./components/main/Main";
+import Navbar from "./components/navbar/navbar"
+import  Footer from "./components/footer/Footer"
+
 function App() {
   return (
+    <>
     <div className="App">
-      <Button  />
-        <Header title="My header" subtitle="angaragücü" />
-        <Footer note="Footer Note" />
-      <Main message="My content" />
-    </div>
+      <div className="navbar">
+        <Navbar/>
+      </div>
+      <div className="body">
+
+      </div>
+      <div className="footer">
+          <Footer note="deneme"/>
+      </div>
+    </div></>
   );
 }
 export default App;
