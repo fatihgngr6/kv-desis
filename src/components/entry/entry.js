@@ -4,7 +4,7 @@ export default function Entry(props) {
     return (
         <>
             <code>
-        <div className="main">
+        <div className="entry">
             <h3>Lütfen aşağıdaki bilgileri doldurunuz</h3>
             <label for="enty"><b>Entry giriniz:</b> </label>
             <input type="text" id="myText" />

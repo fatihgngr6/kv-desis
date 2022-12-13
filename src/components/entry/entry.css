@@ -1,7 +1,19 @@
-.entry{
+.entryCard
+{
+    border: 5px solid black;
+    width: 50%;
+    height: 100px;
+    background-color: powderblue;
 }
 code{
-    padding: 20px;
-    text-align: center;
 
+    padding: 5px;
+    text-align: center;
+}
+.entry
+{
+    border: 5px solid black;
+    width: 50%;
+    height: 100px;
+    background-color: powderblue;
 }
