@@ -1,0 +1,12 @@
+.uyeEkrani{
+    display: inline-grid;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+
+}
+
+.element{
+    position: absolute;
+    padding: 5px
+}

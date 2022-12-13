@@ -1,5 +1,24 @@
 .navbar {
     background-color:indigo;
     text-align: center;
+    width: 100%;
+    display: inline-flex;
+
+}
+
+.uyeGiris{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+}
+.navbar h1{
+    position: absolute;
+    right: 50%;
+}
+.buton{
+    height: 80px;
+    width: 80px;
+    top: 5px;
+    
 
 }

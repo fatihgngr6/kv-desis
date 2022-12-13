@@ -1,5 +1,7 @@
 import Navbar from "./components/navbar/navbar"
 import  Footer from "./components/footer/Footer"
+import Uyeekrani from "./components/Uyeekrani/Uyeekrani"
+import "./app.css"
 
 function App() {
   return (
@@ -9,7 +11,9 @@ function App() {
         <Navbar/>
       </div>
       <div className="body">
-
+          <div className="uyeEkranıContainer"> 
+              <Uyeekrani/>
+          </div>
       </div>
       <div className="footer">
           <Footer note="deneme"/>
