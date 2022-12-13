@@ -1,11 +1,17 @@
 .body{
-
-
-margin-top: 12%;
+margin-top: 0%;
 margin-left: 20%;
 margin-right: 20%
 }
-.uyeEkranıContainer{
+.uyeEkranıContainer {
+    margin-top: 10%;
+    padding: 100px;
+    background-color: powderblue;
+    border: 5px solid black;
+    display: none;
 
-    padding: 30px;
+}
+.kayit{
+    padding: 85px;
+    /*display: none;*/
 }

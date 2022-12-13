@@ -3,14 +3,12 @@
     text-align: center;
     width: 100%;
     display: inline-flex;
-    
-
 }
 
 .uyeGiris{
     position: absolute;
-    right: 5px;
-    top: 5px;
+    right: 15px;
+    top: 16px;
     
 }
 .navbar h1{
@@ -21,17 +19,12 @@
 .buton{
     height: 80px;
     width: 80px;
-    top: 5px;
+    top: 10px;
     color: black;
     
 
 }
-.uyeEkranıContainer {
-    background-color: bisque;
-    border-bottom-color: black;
 
-    
-    
-
-
+.logoImg{
+    padding-left: 12px;
 }

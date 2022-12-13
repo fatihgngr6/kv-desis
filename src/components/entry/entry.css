@@ -1,12 +1,12 @@
 .entryCard
 {
     border: 5px solid black;
-    width: 50%;
+    width: 100%;
     height: 100px;
     background-color: powderblue;
 }
 code{
-
+    width: 100%;
     padding: 5px;
     text-align: center;
 }

@@ -14,9 +14,13 @@ function App() {
       </div>
       <div className="body">
           <div className="kayit">
-              <EntryCard entryCategory ="Entry Kategori" entryName ="Entry Adı"/>
+              <EntryCard entryCategory ="Akademisyen" entryName ="Murat Paşa Uysal"/>
+              <EntryCard entryCategory ="Akademisyen" entryName ="Gizem Öğütçü"/>
+              <EntryCard entryCategory ="Ders" entryName ="Nesne Yönelimli Programlama Dersi"/>
+              <EntryCard entryCategory ="Ders" entryName ="Proje Yönetimi Dersi"/>
           </div>
           <div className="uyeEkranıContainer">
+              <Uyeekrani/>
           </div>
       </div>
       <div className="footer">
